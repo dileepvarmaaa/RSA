@@ -23,3 +23,4 @@ def egcd(dividend,dividend1,divisor2,divisor,divisor1,remainder1,remainder2,divi
 	return(remainder1,remainder2)
 print(egcd(dividend,dividend1,divisor2,divisor,divisor1,remainder1,remainder2,dividend2,r))
 
+
